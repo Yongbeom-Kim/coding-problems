@@ -38,7 +38,7 @@ pos is -1 or a valid index in the linked-list.
 Follow up: Can you solve it using O(1) (i.e. constant) memory?
 """
 
-# Solution 1: Change vlaue of visited nodes
+# Solution 1: Change vlaue of visited nodes, this only works cause node.val cannot be None
 
 # Definition for singly-linked list.
 # class ListNode:
