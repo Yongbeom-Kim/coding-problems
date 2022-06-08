@@ -40,6 +40,12 @@ Follow up: Can you solve it using O(1) (i.e. constant) memory?
 
 # Solution 1: Change vlaue of visited nodes
 
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         
@@ -55,3 +61,33 @@ class Solution:
             head = head.next
         
         return False
+
+# Solution 2: Floyd's Tortoise & Hare Algorithm
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        
+        if head is None:
+            return False
+        
+        tortoise = head
+        hare = head
+        
+        while not (tortoise is None or hare is None):
+            
+            tortoise = tortoise.next
+            hare = hare.next
+            if hare is None:
+                return False
+            hare = hare.next
+
+            if tortoise == hare:
+                return True
+        return False
+        
