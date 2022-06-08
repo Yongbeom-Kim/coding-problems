@@ -7,7 +7,7 @@
 |---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/two-sum.py)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/valid-parentheses.py)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/merge-two-sorted-lists.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|||
