@@ -10,7 +10,7 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/merge-two-sorted-lists.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/best-time-to-buy-and-sell-stock.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/valid-palindrome.py)|Easy| 
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|||
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/invert-binary-tree.py)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|||
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|||
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|||
