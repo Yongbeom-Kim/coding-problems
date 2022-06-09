@@ -11,11 +11,11 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/best-time-to-buy-and-sell-stock.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/valid-palindrome.py)|Easy| 
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/invert-binary-tree.py)|Easy|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|||
-|704|[Binary Search](https://leetcode.com/problems/binary-search/)|||
-|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|||
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/valid-anagram.py)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/binary-search.py)|Easy|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/flood-fill.py)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|||
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|||
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/lowest-common-ancestor-of-a-binary-search-tree.py)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|||
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|||
