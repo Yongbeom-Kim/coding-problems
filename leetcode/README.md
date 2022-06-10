@@ -17,7 +17,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/lowest-common-ancestor-of-a-binary-search-tree.py)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|||
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/linked-list-cycle.py)||
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|||
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|||
