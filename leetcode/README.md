@@ -21,7 +21,7 @@
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/implement-queue-using-stacks.py)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/first-bad-version.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/ransom-note.py)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|||
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/climbing-stairs.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|||
