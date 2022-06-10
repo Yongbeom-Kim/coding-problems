@@ -14,12 +14,12 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/valid-anagram.py)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/binary-search.py)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/flood-fill.py)|Easy|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/maximum-subarray.py)||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/maximum-subarray.py)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/lowest-common-ancestor-of-a-binary-search-tree.py)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/linked-list-cycle.py)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/implement-queue-using-stacks.py)|Easy|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|||
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/first-bad-version.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|||
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|||
