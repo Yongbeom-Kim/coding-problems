@@ -26,3 +26,24 @@
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|||
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|||
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|||
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|||
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|||
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|||
+|🔒|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|||
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|||
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|||
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|||
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|||
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|||
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|||
+|136|[Single Number](https://leetcode.com/problems/single-number/)|||
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|||
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|||
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|||
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|||
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|||
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|||
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|||
