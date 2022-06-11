@@ -25,7 +25,7 @@
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/longest-palindrome.py)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/min-stack.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/reverse-linked-list.py)|Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|||
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/majority-element.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|||
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|||
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|||
