@@ -30,7 +30,7 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|||
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/middle-of-the-linked-list.py)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|||
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/Dernbu/coding-problems/blob/main/leetcode/src/contains-duplicate.py)|Easy|
 |🔒|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|||
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|||
