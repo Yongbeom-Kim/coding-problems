@@ -16,4 +16,5 @@
 |-|[Judging Moose](https://open.kattis.com/problems/judgingmoose)|[C++](/kattis/src/judgingmoose.cpp)|1.6 (Easy)|
 |-|[Autori](https://open.kattis.com/problems/autori)|[C++](/kattis/src/autori.cpp)|1.3 (Easy)|
 |-|[Sibice](https://open.kattis.com/problems/sibice)|[C++](/kattis/src/sibice.cpp)|1.4 (Easy)|
+|-|[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)|[C++](/kattis/src/sibice.onechicken)|2.1 (Easy)|
 
