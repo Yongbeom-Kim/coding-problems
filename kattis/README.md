@@ -15,4 +15,5 @@
 |-|[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)|[C++](/kattis/src/isithalloween.cpp)|1.4 (Easy) - **WA**|
 |-|[Judging Moose](https://open.kattis.com/problems/judgingmoose)|[C++](/kattis/src/judgingmoose.cpp)|1.6 (Easy)|
 |-|[Autori](https://open.kattis.com/problems/autori)|[C++](/kattis/src/autori.cpp)|1.3 (Easy)|
+|-|[Sibice](https://open.kattis.com/problems/sibice)|[C++](/kattis/src/sibice.cpp)|1.4 (Easy)|
 
