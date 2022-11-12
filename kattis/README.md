@@ -10,4 +10,5 @@
 |-|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C++](/kattis/src/timeloop.cpp)|1.4 (Easy)|
 |-|[A Different Problem](https://open.kattis.com/problems/different)|[C++](/kattis/src/different.cpp)|3.0 (Medium)|
 |-|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[C++](/kattis/src/qaly.cpp)|1.3 (Easy)|
+|-|[Tarifa](https://open.kattis.com/problems/tarifa)|[C++](/kattis/src/tarifa.cpp)|1.4 (Easy)|
 
