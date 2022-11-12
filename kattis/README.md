@@ -7,4 +7,5 @@
 |-|[Faktor](https://open.kattis.com/problems/faktor)|[C++](/kattis/src/faktor.cpp)|1.3 (Easy)|
 |-|[Planina](https://open.kattis.com/problems/planina)|[C++](/kattis/src/planina.cpp)|1.4 (Easy)|
 |-|[Romans](https://open.kattis.com/problems/romans)|[C++](/kattis/src/romans.cpp)|1.6 (Easy)|
+|-|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C++](/kattis/src/timeloop.cpp)|1.4 (Easy)|
 
