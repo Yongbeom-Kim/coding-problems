@@ -6,4 +6,5 @@
 |[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C++](/kattis/src/thelastproblem.cpp)|1.7 (Easy)|
 |[Faktor](https://open.kattis.com/problems/faktor)|[C++](/kattis/src/faktor.cpp)|1.3 (Easy)|
 |[Planina](https://open.kattis.com/problems/planina)|[C++](/kattis/src/planina.cpp)|1.4 (Easy)|
+|[Romans](https://open.kattis.com/problems/romans)|[C++](/kattis/src/romans.cpp)|1.6 (Easy)|
 
