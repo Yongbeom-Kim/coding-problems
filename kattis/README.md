@@ -16,7 +16,8 @@
 |-|[Judging Moose](https://open.kattis.com/problems/judgingmoose)|[C++](/kattis/src/judgingmoose.cpp)|1.6 (Easy)|
 |-|[Autori](https://open.kattis.com/problems/autori)|[C++](/kattis/src/autori.cpp)|1.3 (Easy)|
 |-|[Sibice](https://open.kattis.com/problems/sibice)|[C++](/kattis/src/sibice.cpp)|1.4 (Easy)|
-|-|[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)|[C++](/kattis/src/sibice.onechicken)|2.1 (Easy)|
-|2022-11-13|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[C++](/kattis/src/sibice.provincesandgold)|1.5 (Easy)|
+|-|[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)|[C++](/kattis/src/onechicken.cpp)|2.1 (Easy)|
+|2022-11-13|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[C++](/kattis/src/provincesandgold.cpp)|1.5 (Easy)|
+|-|[Quadrant Selection](https://open.kattis.com/problems/quadrant)|[C++](/kattis/src/quadrant.cpp)|1.5 (Easy)|
 
 	
