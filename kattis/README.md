@@ -24,6 +24,8 @@
 |-|[Eligibility](https://open.kattis.com/problems/eligibility)|[C++](/kattis/src/eligibility.cpp)|1.5 (Easy)| Incorrect (**WA**), This [C++](/kattis/src/eligibility%20(segfault).cpp) solution gives segfault? |
 |-|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|[C++](/kattis/src/helpaphd.cpp)|1.6 (Easy)| - |
 |-|[Left Beehind](https://open.kattis.com/problems/leftbeehind)|[C++](/kattis/src/leftbeehind.cpp)|1.7 (Easy)| - |
+|-|[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|[C++](/kattis/src/nastyhacks.cpp)|1.4 (Easy)| - |
+
 
 
 
