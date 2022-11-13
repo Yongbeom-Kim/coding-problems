@@ -33,6 +33,7 @@
 |-|[Baby Bites](https://open.kattis.com/problems/babybites)|[C++](/kattis/src/babybites.cpp)|1.8 (Easy)| - |
 |-|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C++](/kattis/src/cold.cpp)|1.4 (Easy)| - |
 |-|[Early Winter](https://open.kattis.com/problems/earlywinter)|[C++](/kattis/src/earlywinter.cpp)|1.7 (Easy)| - |
+|-|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[C++](/kattis/src/jobexpenses.cpp)|1.4 (Easy)| - |
 
 
 
