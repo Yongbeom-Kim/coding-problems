@@ -34,6 +34,7 @@
 |32|-|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C++](/kattis/src/cold.cpp)|1.4 (Easy)| - |
 |33|-|[Early Winter](https://open.kattis.com/problems/earlywinter)|[C++](/kattis/src/earlywinter.cpp)|1.7 (Easy)| - |
 |34|-|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[C++](/kattis/src/jobexpenses.cpp)|1.4 (Easy)| - |
+|35|-|[Speed Limit](https://open.kattis.com/problems/speedlimit)|[C++](/kattis/src/speedlimit.cpp)|1.6 (Easy)| - |
 
 
 
