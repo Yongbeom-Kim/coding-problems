@@ -28,7 +28,6 @@
 |-|[Number Fun](https://open.kattis.com/problems/numberfun)|[C++](/kattis/src/numberfun.cpp)|1.6 (Easy)| - |
 |-|[Statistics](https://open.kattis.com/problems/statistics)|[C++](/kattis/src/statistics.cpp)|1.9 (Easy)| - |
 |-|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|[C++](/kattis/src/fizzbuzz.cpp)|1.5 (Easy)| - |
-
-
+|-|[License to Launch](https://open.kattis.com/problems/licensetolaunch)|[C++](/kattis/src/licensetolaunch.cpp)|1.6 (Easy)| - |
 
 
