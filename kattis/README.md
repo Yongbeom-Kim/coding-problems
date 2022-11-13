@@ -20,5 +20,6 @@
 |2022-11-13|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[C++](/kattis/src/provincesandgold.cpp)|1.5 (Easy)|
 |-|[Quadrant Selection](https://open.kattis.com/problems/quadrant)|[C++](/kattis/src/quadrant.cpp)|1.5 (Easy)|
 |-|[Time Travelling Temperatures](https://open.kattis.com/problems/temperature)|[C++](/kattis/src/temperature.cpp)|2.2 (Easy)|
+|-|[Oddities](https://open.kattis.com/problems/oddities)|[C++](/kattis/src/oddities.cpp)|1.4 (Easy)|
 
 	
