@@ -36,6 +36,7 @@
 |34|-|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[C++](/kattis/src/jobexpenses.cpp)|1.4 (Easy)| - |
 |35|-|[Speed Limit](https://open.kattis.com/problems/speedlimit)|[C++](/kattis/src/speedlimit.cpp)|1.6 (Easy)| - |
 |36|-|[Star Arrangements](https://open.kattis.com/problems/stararrangements)|[C++](/kattis/src/stararrangements.cpp)|1.7 (Easy)| - |
+|37|-|[Thanos](https://open.kattis.com/problems/thanos)|[C++](/kattis/src/thanos.cpp)|2.7 (Easy)| Don't know why [solution with log](/kattis/src/thanos%20(WA).cpp) fails |
 
 
 
