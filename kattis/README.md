@@ -27,6 +27,7 @@
 |-|[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|[C++](/kattis/src/nastyhacks.cpp)|1.4 (Easy)| - |
 |-|[Number Fun](https://open.kattis.com/problems/numberfun)|[C++](/kattis/src/numberfun.cpp)|1.6 (Easy)| - |
 |-|[Statistics](https://open.kattis.com/problems/statistics)|[C++](/kattis/src/statistics.cpp)|1.9 (Easy)| - |
+|-|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|[C++](/kattis/src/fizzbuzz.cpp)|1.5 (Easy)| - |
 
 
 
