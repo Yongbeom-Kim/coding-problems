@@ -31,6 +31,7 @@
 |-|[License to Launch](https://open.kattis.com/problems/licensetolaunch)|[C++](/kattis/src/licensetolaunch.cpp)|1.6 (Easy)| - |
 |-|[Odd Gnome](https://open.kattis.com/problems/oddgnome)|[C++](/kattis/src/oddgnome.cpp)|1.7 (Easy)| - |
 |-|[Baby Bites](https://open.kattis.com/problems/babybites)|[C++](/kattis/src/babybites.cpp)|1.8 (Easy)| - |
+|-|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C++](/kattis/src/cold.cpp)|1.4 (Easy)| - |
 
 
 
