@@ -41,4 +41,5 @@
 |39|-|[Mia](https://open.kattis.com/problems/mia)|[C++](/kattis/src/mia.cpp)|2.0 (Easy)| - |
 |40|2022-01-14|[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|[C++](/kattis/src/artichoke.cpp)|2.7 (Easy)| - |
 |41|-|[Digits](https://open.kattis.com/problems/digits)|[C++](/kattis/src/digits.cpp)|3.3 (Medium)| - |
+|41|-|[Filip](https://open.kattis.com/problems/filip)|[C++](/kattis/src/filip.cpp)|1.4 (Easy)| - |
 
