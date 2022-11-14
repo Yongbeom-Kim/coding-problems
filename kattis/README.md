@@ -40,4 +40,5 @@
 |38|-|[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|[C++](/kattis/src/zanzibar.cpp)|1.5 (Easy)| - |
 |39|-|[Mia](https://open.kattis.com/problems/mia)|[C++](/kattis/src/mia.cpp)|2.0 (Easy)| - |
 |40|2022-01-14|[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|[C++](/kattis/src/artichoke.cpp)|2.7 (Easy)| - |
+|41|-|[Digits](https://open.kattis.com/problems/digits)|[C++](/kattis/src/digits.cpp)|3.3 (Medium)| - |
 
