@@ -44,4 +44,5 @@
 |42|-|[Filip](https://open.kattis.com/problems/filip)|[C++](/kattis/src/filip.cpp)|1.4 (Easy)| - |
 |43|-|[ABC](https://open.kattis.com/problems/abc)|[C++](/kattis/src/abc.cpp)|2.0 (Easy)| - |
 |44|-|[Combination Lock](https://open.kattis.com/problems/combinationlock)|[C++](/kattis/src/combinationlock.cpp)|2.9 (Medium)| - |
+|44|-|[Treasure Hunt](https://open.kattis.com/problems/treasurehunt)|[C++](/kattis/src/treasurehunt.cpp)|2.7 (Easy)| - |
 
