@@ -39,10 +39,11 @@
 |37|-|[Thanos](https://open.kattis.com/problems/thanos)|[C++](/kattis/src/thanos.cpp)|2.7 (Easy)| Don't know why [solution with log](/kattis/src/thanos%20(WA).cpp) fails |
 |38|-|[Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)|[C++](/kattis/src/zanzibar.cpp)|1.5 (Easy)| - |
 |39|-|[Mia](https://open.kattis.com/problems/mia)|[C++](/kattis/src/mia.cpp)|2.0 (Easy)| - |
-|40|2022-01-14|[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|[C++](/kattis/src/artichoke.cpp)|2.7 (Easy)| - |
+|40|2022-11-14|[Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)|[C++](/kattis/src/artichoke.cpp)|2.7 (Easy)| - |
 |41|-|[Digits](https://open.kattis.com/problems/digits)|[C++](/kattis/src/digits.cpp)|3.3 (Medium)| - |
 |42|-|[Filip](https://open.kattis.com/problems/filip)|[C++](/kattis/src/filip.cpp)|1.4 (Easy)| - |
 |43|-|[ABC](https://open.kattis.com/problems/abc)|[C++](/kattis/src/abc.cpp)|2.0 (Easy)| - |
-|44|-|[Combination Lock](https://open.kattis.com/problems/combinationlock)|[C++](/kattis/src/combinationlock.cpp)|2.9 (Medium)| - |
-|44|-|[Treasure Hunt](https://open.kattis.com/problems/treasurehunt)|[C++](/kattis/src/treasurehunt.cpp)|2.7 (Easy)| - |
+|44|2022-11-15|[Combination Lock](https://open.kattis.com/problems/combinationlock)|[C++](/kattis/src/combinationlock.cpp)|2.9 (Medium)| - |
+|45|-|[Treasure Hunt](https://open.kattis.com/problems/treasurehunt)|[C++](/kattis/src/treasurehunt.cpp)|2.7 (Easy)| - |
+|46|-|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[C++](/kattis/src/lostlineup.cpp)|1.5 (Easy)| - |
 
