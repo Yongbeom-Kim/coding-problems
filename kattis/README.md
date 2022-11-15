@@ -46,4 +46,8 @@
 |44|2022-11-15|[Combination Lock](https://open.kattis.com/problems/combinationlock)|[C++](/kattis/src/combinationlock.cpp)|2.9 (Medium)| - |
 |45|-|[Treasure Hunt](https://open.kattis.com/problems/treasurehunt)|[C++](/kattis/src/treasurehunt.cpp)|2.7 (Easy)| - |
 |46|-|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[C++](/kattis/src/lostlineup.cpp)|1.5 (Easy)| - |
+|47|-|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C++](/kattis/src/acm.cpp)|1.6 (Easy)| - |
+|48|-|[Cetiri](https://open.kattis.com/problems/cetiri)|[C++](/kattis/src/cetiri.cpp)|1.8 (Easy)| - |
+
+
 
