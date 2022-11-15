@@ -48,6 +48,8 @@
 |46|-|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[C++](/kattis/src/lostlineup.cpp)|1.5 (Easy)| - |
 |47|-|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C++](/kattis/src/acm.cpp)|1.6 (Easy)| - |
 |48|-|[Cetiri](https://open.kattis.com/problems/cetiri)|[C++](/kattis/src/cetiri.cpp)|1.8 (Easy)| - |
+|49|-|[Line Them Up](https://open.kattis.com/problems/lineup)|[C++](/kattis/src/lineup.cpp)|1.8 (Easy)| - |
+
 
 
 
