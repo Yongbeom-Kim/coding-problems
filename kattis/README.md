@@ -43,4 +43,5 @@
 |41|-|[Digits](https://open.kattis.com/problems/digits)|[C++](/kattis/src/digits.cpp)|3.3 (Medium)| - |
 |42|-|[Filip](https://open.kattis.com/problems/filip)|[C++](/kattis/src/filip.cpp)|1.4 (Easy)| - |
 |43|-|[ABC](https://open.kattis.com/problems/abc)|[C++](/kattis/src/abc.cpp)|2.0 (Easy)| - |
+|44|-|[Combination Lock](https://open.kattis.com/problems/combinationlock)|[C++](/kattis/src/combinationlock.cpp)|2.9 (Medium)| - |
 
