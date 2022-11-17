@@ -49,7 +49,8 @@
 |47|-|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C++](/kattis/src/acm.cpp)|1.6 (Easy)| - |
 |48|-|[Cetiri](https://open.kattis.com/problems/cetiri)|[C++](/kattis/src/cetiri.cpp)|1.8 (Easy)| - |
 |49|-|[Line Them Up](https://open.kattis.com/problems/lineup)|[C++](/kattis/src/lineup.cpp)|1.8 (Easy)| - |
-|49|-|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C++](/kattis/src/basketballoneonone.cpp)|1.7 (Easy)| - |
+|50|-|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C++](/kattis/src/basketballoneonone.cpp)|1.7 (Easy)| - |
+|51|2022-11-17|[Hot Hike](https://open.kattis.com/problems/hothike)|[C++](/kattis/src/hothike.cpp)|2.0 (Easy)| - |
 
 
 
