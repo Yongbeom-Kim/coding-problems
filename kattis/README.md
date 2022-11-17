@@ -51,6 +51,7 @@
 |49|-|[Line Them Up](https://open.kattis.com/problems/lineup)|[C++](/kattis/src/lineup.cpp)|1.8 (Easy)| - |
 |50|-|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C++](/kattis/src/basketballoneonone.cpp)|1.7 (Easy)| - |
 |51|2022-11-17|[Hot Hike](https://open.kattis.com/problems/hothike)|[C++](/kattis/src/hothike.cpp)|2.0 (Easy)| - |
+|52|-|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|[C++](/kattis/src/hissingmicrophone.cpp)|1.4 (Easy)| - |
 
 
 
