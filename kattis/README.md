@@ -57,6 +57,7 @@
 |55|-|[Poker Hand](https://open.kattis.com/problems/pokerhand)|[C++](/kattis/src/pokerhand.cpp)|1.5 (Easy)| - |
 |56|-|[Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy)|[C++](/kattis/src/armystrengtheasy.cpp)|2.3 (Easy)| - |
 |57|-|[Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard)|[C++](/kattis/src/armystrengthhard.cpp)|2.2 (Easy)| - |
+|57|-|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C++](/kattis/src/brokenswords.cpp)|1.9 (Easy)| - |
 
 
 
