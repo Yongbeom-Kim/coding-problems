@@ -9,9 +9,10 @@ void print_array(int* a) {
 }
 
 int main() {
-    int a[6];
+    int a[] = {1,2,3,4,5,6};
+    int b[] = {7,8,9,1,2,3};
 
-    std::iota(a, a+6);
-    print_array(a);
+    std::reverse_copy(a, a+6, b);
+    print_array(b);
     
 }
