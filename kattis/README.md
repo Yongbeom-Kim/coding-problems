@@ -52,7 +52,9 @@
 |50|-|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C++](/kattis/src/basketballoneonone.cpp)|1.7 (Easy)| - |
 |51|2022-11-17|[Hot Hike](https://open.kattis.com/problems/hothike)|[C++](/kattis/src/hothike.cpp)|2.0 (Easy)| - |
 |52|-|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|[C++](/kattis/src/hissingmicrophone.cpp)|1.4 (Easy)| - |
-|52|-|[Batter Up](https://open.kattis.com/problems/batterup)|[C++](/kattis/src/batterup.cpp)|1.4 (Easy)| - |
+|53|-|[Batter Up](https://open.kattis.com/problems/batterup)|[C++](/kattis/src/batterup.cpp)|1.4 (Easy)| - |
+|54|-|[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|[C++](/kattis/src/hangingout.cpp)|1.7 (Easy)| - |
+
 
 
 
