@@ -63,6 +63,7 @@
 |61|-|[Ptice](https://open.kattis.com/problems/ptice)|[C++](/kattis/src/ptice.cpp)|1.6 (Easy)| - |
 |62|-|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C++](/kattis/src/sevenwonders.cpp)|1.6 (Easy)| - |
 |63|-|[Volim](https://open.kattis.com/problems/volim)|[C++](/kattis/src/volim.cpp)|1.7 (Easy)| - |
+|63|-|[Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)|[C++](/kattis/src/yinyangstones.cpp)|1.7 (Easy)| - |
 
 
 
