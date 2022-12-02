@@ -60,7 +60,9 @@
 |58|-|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C++](/kattis/src/brokenswords.cpp)|1.9 (Easy)| - |
 |59|-|[Drinking Song](https://open.kattis.com/problems/drinkingsong)|[C++](/kattis/src/drinkingsong.cpp)|2.2 (Easy)| - |
 |60|2022-12-02|[Mosquito Multiplication](https://open.kattis.com/problems/mosquito)|[C++](/kattis/src/mosquito.cpp)|1.8 (Easy)| - |
-|60|2022-12-02|[Ptice](https://open.kattis.com/problems/ptice)|[C++](/kattis/src/ptice.cpp)|1.6 (Easy)| - |
+|61|-|[Ptice](https://open.kattis.com/problems/ptice)|[C++](/kattis/src/ptice.cpp)|1.6 (Easy)| - |
+|62|-|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C++](/kattis/src/sevenwonders.cpp)|1.6 (Easy)| - |
+
 
 
 
