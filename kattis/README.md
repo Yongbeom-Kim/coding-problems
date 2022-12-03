@@ -71,6 +71,7 @@
 |69|-|[Bounding Robots](https://open.kattis.com/problems/boundingrobots)|[C++](/kattis/src/boundingrobots.cpp)|1.7 (Easy)| - |
 |70|-|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[C++](/kattis/src/missingnumbers.cpp)|1.7 (Easy)| - |
 |71|-|[Death and Taxes](https://open.kattis.com/problems/deathtaxes)|[C++](/kattis/src/deathtaxes.cpp)|2.9 (Medium)| - |
+|72|-|[Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)|[C++](/kattis/src/driversdilemma.cpp)|2.2 (Easy)| - |
 
 
 
