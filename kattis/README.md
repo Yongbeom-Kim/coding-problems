@@ -69,6 +69,8 @@
 |67|-|[Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea)|[C++](/kattis/src/bubbletea.cpp)|2.6 (Easy)| - |
 |68|-|[Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)|[C++](/kattis/src/peasoup.cpp)|2.2 (Easy)| - |
 |69|-|[Bounding Robots](https://open.kattis.com/problems/boundingrobots)|[C++](/kattis/src/boundingrobots.cpp)|1.7 (Easy)| - |
+|70|-|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[C++](/kattis/src/missingnumbers.cpp)|1.7 (Easy)| - |
+
 
 
 
