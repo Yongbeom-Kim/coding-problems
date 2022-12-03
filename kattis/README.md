@@ -70,6 +70,8 @@
 |68|-|[Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)|[C++](/kattis/src/peasoup.cpp)|2.2 (Easy)| - |
 |69|-|[Bounding Robots](https://open.kattis.com/problems/boundingrobots)|[C++](/kattis/src/boundingrobots.cpp)|1.7 (Easy)| - |
 |70|-|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[C++](/kattis/src/missingnumbers.cpp)|1.7 (Easy)| - |
+|71|-|[Death and Taxes](https://open.kattis.com/problems/deathtaxes)|[C++](/kattis/src/deathtaxes.cpp)|2.9 (Medium)| - |
+
 
 
 
