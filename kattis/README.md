@@ -63,7 +63,11 @@
 |61|-|[Ptice](https://open.kattis.com/problems/ptice)|[C++](/kattis/src/ptice.cpp)|1.6 (Easy)| - |
 |62|-|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C++](/kattis/src/sevenwonders.cpp)|1.6 (Easy)| - |
 |63|-|[Volim](https://open.kattis.com/problems/volim)|[C++](/kattis/src/volim.cpp)|1.7 (Easy)| - |
-|63|-|[Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)|[C++](/kattis/src/yinyangstones.cpp)|1.7 (Easy)| - |
+|64|-|[Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)|[C++](/kattis/src/yinyangstones.cpp)|1.7 (Easy)| - |
+|65|2022-12-03|[Popular Vote](https://open.kattis.com/problems/vote)|[C++](/kattis/src/vote.cpp)|2.2 (Easy)| - |
+|66|-|[Boss Battle](https://open.kattis.com/problems/bossbattle)|[C++](/kattis/src/bossbattle.cpp)|1.8 (Easy)| - |
+
+
 
 
 
