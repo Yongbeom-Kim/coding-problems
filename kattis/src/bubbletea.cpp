@@ -1,7 +1,6 @@
 #include <cstdio>
 #include <algorithm>
 #include <climits>
-
 int N, M;
 int teas[1000], toppings[1000];
 // long allowed_toppings[1000000];
@@ -38,5 +37,5 @@ int main() {
 
     scanf("%lld", &money);
     // printf("money: %lld, price: %lld\n", money, min_price);
-    printf("%lld", money/min_price-1);
+    printf("%lld", std::max(money/min_price-1, (long long) 0));
 }
