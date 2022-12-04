@@ -77,6 +77,7 @@
 |75|2022-12-04|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|[C++](/kattis/src/prerequisites.cpp)|2.0 (Easy)| - |
 |76|-|[Sok?](https://open.kattis.com/problems/sok)|[C++](/kattis/src/sok.cpp)|1.8 (Easy)| - |
 |77|-|[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|[C++](/kattis/src/basicprogramming1.cpp)|3.8 (Medium)| - |
+|78|-|[Battle Simulation](https://open.kattis.com/problems/battlesimulation)|[C++](/kattis/src/battlesimulation.cpp)|2.9 (Medium)| - |
 
 
 
