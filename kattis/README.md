@@ -74,6 +74,7 @@
 |72|-|[Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)|[C++](/kattis/src/driversdilemma.cpp)|2.2 (Easy)| - |
 |73|-|[Event Planning](https://open.kattis.com/problems/eventplanning)|[C++](/kattis/src/eventplanning.cpp)|2.1 (Easy)| - |
 |74|-|[Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical)|[C++](/kattis/src/exactlyelectrical.cpp)|2.0 (Easy)| - |
+|75|2022-12-04|[Prerequisites?](https://open.kattis.com/problems/prerequisites)|[C++](/kattis/src/prerequisites.cpp)|2.0 (Easy)| - |
 
 
 
