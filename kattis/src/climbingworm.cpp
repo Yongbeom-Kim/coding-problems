@@ -15,5 +15,5 @@ int main() {
         left += r;
     }
 
-    printf("%d", climb);
+    printf("%d", climbs);
 }
