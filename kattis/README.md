@@ -82,6 +82,8 @@
 |80|2022-12-05|[Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)|[C++](/kattis/src/anotherbrick.cpp)|2.1 (Easy)| - |
 |81|-|[Beekeeper](https://open.kattis.com/problems/beekeeper)|[C++](/kattis/src/beekeeper.cpp)|2.7 (Easy)| - |
 |82|-|[Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)|[C++](/kattis/src/bottledup.cpp)|2.5 (Easy)| - |
+|83|-|[Carousel Rides](https://open.kattis.com/problems/carousel)|[C++](/kattis/src/carousel.cpp)|2.6 (Easy)| - |
+
 
 
 
