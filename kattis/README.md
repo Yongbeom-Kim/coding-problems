@@ -85,6 +85,7 @@
 |83|-|[Carousel Rides](https://open.kattis.com/problems/carousel)|[C++](/kattis/src/carousel.cpp)|2.6 (Easy)| - |
 |84|-|[Climbing Worm](https://open.kattis.com/problems/climbingworm)|[C++](/kattis/src/climbingworm.cpp)|2.3 (Easy)| - |
 |85|-|[Code Cleanups](https://open.kattis.com/problems/codecleanups)|[C++](/kattis/src/codecleanups.cpp)|2.6 (Easy)| - |
+|86|-|[Cow Crane](https://open.kattis.com/problems/cowcrane)|[C++](/kattis/src/cowcrane.cpp)|3.7 (Medium)| - |
 
 
 
