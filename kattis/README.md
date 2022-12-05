@@ -87,6 +87,7 @@
 |85|-|[Code Cleanups](https://open.kattis.com/problems/codecleanups)|[C++](/kattis/src/codecleanups.cpp)|2.6 (Easy)| - |
 |86|-|[Cow Crane](https://open.kattis.com/problems/cowcrane)|[C++](/kattis/src/cowcrane.cpp)|3.7 (Medium)| - |
 |87|-|[Howl](https://open.kattis.com/problems/howl)|[C++](/kattis/src/howl.cpp)|1.9 (Easy)| - |
+|88|-|[Shattered Cake](https://open.kattis.com/problems/shatteredcake)|[C++](/kattis/src/shatteredcake.cpp)|1.4 (Easy)| - |
 
 
 
