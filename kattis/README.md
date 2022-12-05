@@ -89,6 +89,7 @@
 |87|-|[Howl](https://open.kattis.com/problems/howl)|[C++](/kattis/src/howl.cpp)|1.9 (Easy)| - |
 |88|-|[Shattered Cake](https://open.kattis.com/problems/shatteredcake)|[C++](/kattis/src/shatteredcake.cpp)|1.4 (Easy)| - |
 |89|-|[Bela](https://open.kattis.com/problems/bela)|[C++](/kattis/src/bela.cpp)|1.4 (Easy)| - |
+|90|-|[Shuffling Along](https://open.kattis.com/problems/shuffling)|[C++](/kattis/src/shuffling.cpp)|2.7 (Easy)| - |
 
 
 
