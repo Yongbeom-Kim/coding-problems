@@ -79,6 +79,7 @@
 |77|-|[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)|[C++](/kattis/src/basicprogramming1.cpp)|3.8 (Medium)| - |
 |78|-|[Battle Simulation](https://open.kattis.com/problems/battlesimulation)|[C++](/kattis/src/battlesimulation.cpp)|2.9 (Medium)| - |
 |79|-|[Bits Equalizer](https://open.kattis.com/problems/bitsequalizer)|[C++](/kattis/src/bitsequalizer.cpp)|3.6 (Medium)| - |
+|80|2022-12-05|[Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)|[C++](/kattis/src/anotherbrick.cpp)|2.1 (Easy)| - |
 
 
 
