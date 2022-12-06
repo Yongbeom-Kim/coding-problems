@@ -100,6 +100,7 @@
 |98|-|[Saving Daylight](https://open.kattis.com/problems/savingdaylight)|[C++](/kattis/src/savingdaylight.cpp)|2.0 (Easy)| - |
 |99|-|[Peg](https://open.kattis.com/problems/peg)|[C++](/kattis/src/peg.cpp)|2.0 (Easy)| - |
 |100|-|[Okviri](https://open.kattis.com/problems/okviri)|[C++](/kattis/src/okviri.cpp)|2.0 (Easy)| - |
+|101|-|[Oktalni](https://open.kattis.com/problems/oktalni)|[C++](/kattis/src/oktalni.cpp)|2.0 (Easy)| - |
 
 
 
