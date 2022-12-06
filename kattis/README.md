@@ -96,6 +96,11 @@
 |94|-|[Sort of Sorting](https://open.kattis.com/problems/sortofsorting)|[C++](/kattis/src/sortofsorting.cpp)|2.0 (Easy)| - |
 |95|-|[Slatkisi](https://open.kattis.com/problems/slatkisi)|[C++](/kattis/src/slatkisi.cpp)|2.0 (Easy)| - |
 |96|-|[Sky Islands](https://open.kattis.com/problems/skyislands)|[C++](/kattis/src/skyislands.cpp)|2.0 (Easy)| - |
+|97|-|[Simone](https://open.kattis.com/problems/simone)|[C++](/kattis/src/simone.cpp)|2.0 (Easy)| - |
+|98|-|[Saving Daylight](https://open.kattis.com/problems/savingdaylight)|[C++](/kattis/src/savingdaylight.cpp)|2.0 (Easy)| - |
+|99|-|[Peg](https://open.kattis.com/problems/peg)|[C++](/kattis/src/peg.cpp)|2.0 (Easy)| - |
+|100|-|[Okviri](https://open.kattis.com/problems/okviri)|[C++](/kattis/src/okviri.cpp)|2.0 (Easy)| - |
+
 
 
 
