@@ -91,7 +91,11 @@
 |89|-|[Bela](https://open.kattis.com/problems/bela)|[C++](/kattis/src/bela.cpp)|1.4 (Easy)| - |
 |90|-|[Shuffling Along](https://open.kattis.com/problems/shuffling)|[C++](/kattis/src/shuffling.cpp)|2.7 (Easy)| - |
 |91|-|[Memory Match](https://open.kattis.com/problems/memorymatch)|[C++](/kattis/src/memorymatch.cpp)|4.3 (Medium)| **WA (Stupid corner cases)** |
-|91|2022-12-06|[Karte](https://open.kattis.com/problems/karte)|[C++](/kattis/src/karte.cpp)|1.6 (Easy)| **WA (Stupid corner cases)** |
+|92|2022-12-06|[Karte](https://open.kattis.com/problems/karte)|[C++](/kattis/src/karte.cpp)|1.6 (Easy)| - |
+|93|-|[Spelling Bee](https://open.kattis.com/problems/spellingbee)|[C++](/kattis/src/spellingbee.cpp)|2.0 (Easy)| - |
+|94|-|[Sort of Sorting](https://open.kattis.com/problems/sortofsorting)|[C++](/kattis/src/sortofsorting.cpp)|2.0 (Easy)| - |
+|95|-|[Slatkisi](https://open.kattis.com/problems/slatkisi)|[C++](/kattis/src/slatkisi.cpp)|2.0 (Easy)| - |
+|96|-|[Sky Islands](https://open.kattis.com/problems/skyislands)|[C++](/kattis/src/skyislands.cpp)|2.0 (Easy)| - |
 
 
 
