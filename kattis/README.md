@@ -119,10 +119,25 @@
 |117|-|[Loo Rolls](https://open.kattis.com/problems/loorolls)|[C++](/kattis/src/loorolls.cpp)|1.7 (Easy)| - |
 |118|-|[Skener](https://open.kattis.com/problems/skener)|[C++](/kattis/src/skener.cpp)|1.6 (Easy)| - |
 |119|-|[Encoded Message](https://open.kattis.com/problems/encodedmessage)|[C++](/kattis/src/encodedmessage.cpp)|1.4 (Easy)| - |
-|120|-|[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|[C++](/kattis/src/electricaloutlets.cpp)|1.3 (Easy)| - |
-
-
-glitchbot 
+|120|-|[Parking](https://open.kattis.com/problems/parking2)|[C++](/kattis/src/parking2.cpp)|1.5 (Easy)| - |
+|121|-|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C++](/kattis/src/sumsquareddigits.cpp)|1.5 (Easy)| - |
+|122|-|[Reverse](https://open.kattis.com/problems/ofugsnuid)|[C++](/kattis/src/ofugsnuid.cpp)|1.5 (Easy)| - |
+|123|-|[Final Exam](https://open.kattis.com/problems/finalexam2)|[C++](/kattis/src/finalexam2.cpp)|1.6 (Easy)| - |
+|124|-|[Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)|[C++](/kattis/src/jointjogjam.cpp)|1.7 (Easy)| - |
+|125|-|[Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication)|[C++](/kattis/src/methodicmultiplication.cpp)|1.6 (Easy)| - |
+|126|-|[Card Trick](https://open.kattis.com/problems/cardtrick2)|[C++](/kattis/src/cardtrick2.cpp)|1.8 (Easy)| - |
+|127|-|[Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)|[C++](/kattis/src/jollyjumpers.cpp)|3.2 (Medium)| - |
+|128|-|[Baloni](https://open.kattis.com/problems/baloni)|[C++](/kattis/src/baloni.cpp)|3.6 (Medium)| - |
+|129|-|[Disastrous Downtime](https://open.kattis.com/problems/downtime)|[C++](/kattis/src/downtime.cpp)|3.2 (Medium)| - |
+|130|-|[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|[C++](/kattis/src/greedilyincreasing.cpp)|2.2 (Easy)| - |
+|131|-|[Erase Securely](https://open.kattis.com/problems/erase)|[C++](/kattis/src/erase.cpp)|1.7 (Easy)| - |
+|132|-|[Bijele](https://open.kattis.com/problems/bijele)|[C++](/kattis/src/bijele.cpp)|1.4 (Easy)| - |
+|133|-|[Guessing Game](https://open.kattis.com/problems/guessinggame)|[C++](/kattis/src/guessinggame.cpp)|3.2 (Medium)| - |
+|134|-|[Trik](https://open.kattis.com/problems/trik)|[C++](/kattis/src/trik.cpp)|1.5 (Easy)| - |
+|135|-|[Game Rank](https://open.kattis.com/problems/gamerank)|[C++](/kattis/src/gamerank.cpp)|3.5 (Medium)| - |
+|136|-|[Pivot](https://open.kattis.com/problems/pivot)|[C++](/kattis/src/pivot.cpp)|2.8 (Medium)| - |
+|137|-|[Astro](https://open.kattis.com/problems/astro)|[C++](/kattis/src/astro.cpp)|3.9 (Medium)| **(WA - tried 2 methods, can't get it)** |
+|138|-|[Flipping Patties](https://open.kattis.com/problems/flippingpatties)|[C++](/kattis/src/flippingpatties.cpp)|2.3 (Easy)| - |
 
 
 
