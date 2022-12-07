@@ -101,7 +101,28 @@
 |99|-|[Peg](https://open.kattis.com/problems/peg)|[C++](/kattis/src/peg.cpp)|2.0 (Easy)| - |
 |100|-|[Okviri](https://open.kattis.com/problems/okviri)|[C++](/kattis/src/okviri.cpp)|2.0 (Easy)| - |
 |101|-|[Oktalni](https://open.kattis.com/problems/oktalni)|[C++](/kattis/src/oktalni.cpp)|2.0 (Easy)| - |
+|102|-|[Nine Knights](https://open.kattis.com/problems/nineknights)|[C++](/kattis/src/nineknights.cpp)|2.0 (Easy)| - |
+|103|2022-12-07|[Imperial Measurement](https://open.kattis.com/problems/nineknights)|[C++](/kattis/src/nineknights.cpp)|2.0 (Easy)| - |
+|104|-|[Jumbled Compass](https://open.kattis.com/problems/measurement)|[C++](/kattis/src/measurement.cpp)|2.0 (Easy)| - |
+|105|-|[Kafkaesque](https://open.kattis.com/problems/kafkaesque)|[C++](/kattis/src/kafkaesque.cpp)|2.0 (Easy)| - |
+|106|-|[Locust Locus](https://open.kattis.com/problems/locustlocus)|[C++](/kattis/src/locustlocus.cpp)|2.0 (Easy)| - |
+|107|-|[Math Homework](https://open.kattis.com/problems/mathhomework)|[C++](/kattis/src/mathhomework.cpp)|2.0 (Easy)| - |
+|108|-|[Height Ordering](https://open.kattis.com/problems/height)|[C++](/kattis/src/height.cpp)|2.0 (Easy)| - |
+|109|-|[Hay Points](https://open.kattis.com/problems/haypoints)|[C++](/kattis/src/haypoints.cpp)|2.0 (Easy)| - |
+|110|-|[Gene Block](https://open.kattis.com/problems/geneblock)|[C++](/kattis/src/geneblock.cpp)|2.0 (Easy)| - |
+|111|-|[Friday the 13th](https://open.kattis.com/problems/friday)|[C++](/kattis/src/friday.cpp)|2.0 (Easy)| - |
+|112|-|[Flip Flow](https://open.kattis.com/problems/flipflow)|[C++](/kattis/src/flipflow.cpp)|2.0 (Easy)| - |
+|113|-|[Babylonian Numbers](https://open.kattis.com/problems/babylonian)|[C++](/kattis/src/babylonian.cpp)|2.0 (Easy)| - |
+|114|-|[Alien Numbers](https://open.kattis.com/problems/aliennumbers)|[C++](/kattis/src/aliennumbers.cpp)|2.0 (Easy)| - |
+|115|-|[Popularity Contest](https://open.kattis.com/problems/popularitycontest)|[C++](/kattis/src/popularitycontest.cpp)|1.8 (Easy)| - |
+|116|-|[Relocation](https://open.kattis.com/problems/relocation)|[C++](/kattis/src/relocation.cpp)|1.5 (Easy)| - |
+|117|-|[Loo Rolls](https://open.kattis.com/problems/loorolls)|[C++](/kattis/src/loorolls.cpp)|1.7 (Easy)| - |
+|118|-|[Skener](https://open.kattis.com/problems/skener)|[C++](/kattis/src/skener.cpp)|1.6 (Easy)| - |
+|119|-|[Encoded Message](https://open.kattis.com/problems/encodedmessage)|[C++](/kattis/src/encodedmessage.cpp)|1.4 (Easy)| - |
+|120|-|[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|[C++](/kattis/src/electricaloutlets.cpp)|1.3 (Easy)| - |
 
+
+glitchbot 
 
 
 
