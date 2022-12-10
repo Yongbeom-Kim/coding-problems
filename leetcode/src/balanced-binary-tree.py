@@ -30,8 +30,7 @@ The number of nodes in the tree is in the range [0, 5000].
 -104 <= Node.val <= 104
 """
 
-Solution 1: Recursive
-  # Definition for a binary tree node.
+# Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
@@ -39,29 +38,64 @@ Solution 1: Recursive
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        if root is None:
+            return True
         
-        def check(self):
-            """
-            Checks if node is height-balanced and returns node height
-            Null trees have height -1
-            Returns -2 if node is not balanced
-            """
-            if self is None:
-                return -1
-            
-            leftHeight = check(self.left)
-            if leftHeight == -2:
-                return -2
-            
-            rightHeight = check(self.right)
-            if rightHeight == -2:
-                return -2
-            
-            if abs(leftHeight - rightHeight) > 1:
-                return -2
-            
-            return max(leftHeight, rightHeight) + 1
+        heights = {None: -1}
+        def getHeight(node: Optional[TreeNode]) -> int:
+            if node in heights:
+                return heights[node]
+
+            return max(getHeight(node.left), getHeight(node.right)) + 1
         
-        return not check(root) == -2
+        
+        getHeight(root)
+        
+        return abs(getHeight(root.left) - getHeight(root.right)) <= 1 and self.isBalanced(root.left) and self.isBalanced(root.right)
+        
+        
         
 # Solution 2: Iterative
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        # Iterative solution:
+        """
+        Do a preorder traversal
+        - traverse left (get left height)
+        - traverse right (get right height)
+        - visit this node
+        
+        1. preorder traversal with stack, calculate all node heights
+        2. Check all nodes for balance
+        """
+        if root is None:
+            return True
+        
+        stack = [root]
+        height_stack = []
+        heights = {None: -1}
+        
+        while stack:
+            node = stack.pop()
+            if node is None:
+                continue
+            stack.append(node.right)
+            stack.append(node.left)
+            
+            height_stack.append(node)
+        
+        while height_stack:
+            node = height_stack.pop()
+            if abs(heights[node.left] - heights[node.right]) > 1:
+                return False
+            heights[node] = max(heights[node.left], heights[node.right]) + 1
+        return True
+        
+        
+        
