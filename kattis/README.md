@@ -151,7 +151,7 @@
 |149|-|[Credit Card Payment](https://open.kattis.com/problems/creditcard)|[C++](/kattis/src/creditcard.cpp)|5.3 (Medium)| - |
 |150|-|[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|[C++](/kattis/src/touchscreenkeyboard.cpp)|2.1 (Easy)| - |
 |151|-|[Mars Window](https://open.kattis.com/problems/marswindow)|[C++](/kattis/src/marswindow.cpp)|2.1 (Easy)| - |
-|151|-|[Just a Minute](https://open.kattis.com/problems/justaminute)|[C++](/kattis/src/justaminute.cpp)|1.8 (Easy)| - |
+|152|-|[Just a Minute](https://open.kattis.com/problems/justaminute)|[C++](/kattis/src/justaminute.cpp)|1.8 (Easy)| - |
 
 
 
