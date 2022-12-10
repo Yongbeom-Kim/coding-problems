@@ -138,6 +138,20 @@
 |136|-|[Pivot](https://open.kattis.com/problems/pivot)|[C++](/kattis/src/pivot.cpp)|2.8 (Medium)| - |
 |137|-|[Astro](https://open.kattis.com/problems/astro)|[C++](/kattis/src/astro.cpp)|3.9 (Medium)| **(WA - tried 2 methods, can't get it)** |
 |138|-|[Flipping Patties](https://open.kattis.com/problems/flippingpatties)|[C++](/kattis/src/flippingpatties.cpp)|2.3 (Easy)| - |
+|139|2022-12-09|[Verify This, Your Majesty](https://open.kattis.com/problems/queens)|[C++](/kattis/src/queens.cpp)|3.0 (Medium)| - |
+|140|-|[Rock Band](https://open.kattis.com/problems/rockband)|[C++](/kattis/src/rockband.cpp)|4.0 (Medium)| - |
+|141|-|[Rock-Paper-Scissors Tournament](https://open.kattis.com/problems/rockpaperscissors)|[C++](/kattis/src/rockpaperscissors.cpp)|4.1 (Medium)| - |
+|142|-|[Rock, Scissors, Paper](https://open.kattis.com/problems/rockscissorspaper)|[C++](/kattis/src/rockscissorspaper.cpp)|4.2 (Medium)| - |
+|143|-|[WERTYU](https://open.kattis.com/problems/wertyu)|[C++](/kattis/src/wertyu.cpp)|3.4 (Medium)| - |
+|144|-|[Preludes](https://open.kattis.com/problems/chopin)|[C++](/kattis/src/chopin.cpp)|1.8 (Easy)| - |
+|145|-|[Train Passengers](https://open.kattis.com/problems/trainpassengers)|[C++](/kattis/src/trainpassengers.cpp)|2.9 (Medium)| - |
+|146|-|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|[C++](/kattis/src/luhnchecksum.cpp)|1.6 (Easy)| - |
+|147|-|[Beat the Spread!](https://open.kattis.com/problems/beatspread)|[C++](/kattis/src/beatspread.cpp)|2.4 (Easy)| - |
+|148|-|[Toilet Seat](https://open.kattis.com/problems/toilet)|[C++](/kattis/src/toilet.cpp)|2.2 (Easy)| - |
+|149|-|[Credit Card Payment](https://open.kattis.com/problems/creditcard)|[C++](/kattis/src/creditcard.cpp)|5.3 (Medium)| - |
+|150|-|[Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)|[C++](/kattis/src/touchscreenkeyboard.cpp)|2.1 (Easy)| - |
+|151|-|[Mars Window](https://open.kattis.com/problems/marswindow)|[C++](/kattis/src/marswindow.cpp)|2.1 (Easy)| - |
+|151|-|[Just a Minute](https://open.kattis.com/problems/justaminute)|[C++](/kattis/src/justaminute.cpp)|1.8 (Easy)| - |
 
 
 

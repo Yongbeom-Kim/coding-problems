@@ -15,40 +15,26 @@ int main() {
         scanf("%lld", c+i);
     }
 
-    lld peaki = -1, troughi = -1;
-
-    lld prev = c[0];
-    bool fasc = true;
-    bool sasc = false;
-    bool dsc = false;
+    vector<pair<long, long>> dcsc = {{0,0}};
+    long n_dcsc = 0;
     for (int i = 1; i < n; i ++) {
-        if (fasc && c[i] < prev) {
-            peaki = i-1;
-            for (lld j = i-1; j >= 0 && c[j] == prev; j --) {
-                peaki = j;
+        if (c[i] <= c[i-1]) {
+            dcsc[n_dcsc].second = i;
+        } else {
+            if (dcsc[n_dcsc].first == dcsc[n_dcsc].second) {
+                dcsc[n_dcsc] = {i,i};
+            } else {
+                n_dcsc++;
+                dcsc.push_back({i,i});
             }
-            fasc = false;
-            dsc = true;
-        } else if (dsc && c[i] > prev) {
-            troughi = i-1;
-            for (lld j = i-1; j < n && c[j] == prev; j ++) {
-                troughi = j;
-            }
-            sasc = true;
-            dsc = false;
-        }else if (sasc && c[i] < prev) {
-            printf("impossible");
-            return 0;
         }
-        prev = c[i];
     }
 
-    if (is_sorted(c, c+n)) {
-        printf("%ld %ld", n, n); return 0;
+    if (n_dcsc == 0 || (n_dcsc == 1 && dcsc[1].first==dcsc[1].second)) {
+        cout << dcsc[0].first+1 << " " << dcsc[0].second+1;
+    } else {
+        cout<< "impossible";
     }
-
-    cout << peaki+1 << " " << troughi+1;//<< "\n";
-    // cout << c[peaki] << " " << c[troughi];
-    // cout << c[peaki-1] << " " << c[troughi+1];
+    
 
 }
