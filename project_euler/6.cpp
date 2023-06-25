@@ -9,4 +9,14 @@ typedef double lf;
 
 int main()
 {
+    lld sqsum = 0, sumsq = 0;
+
+    for (int i = 1; i <= 100; i++)
+    {
+        sqsum += i * i;
+        sumsq += i;
+    }
+    sumsq *= sumsq;
+
+    printf("%lld", (sumsq - sqsum));
 }

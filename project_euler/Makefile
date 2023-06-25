@@ -21,6 +21,7 @@ $(BUILD_DIR)/%.o: ./%.cpp $(BUILD_DIR)
 
 $(BUILD_DIR):
 	mkdir $(BUILD_DIR)
+
 .PHONY: clean
 clean:
 	rm -rf ./build
