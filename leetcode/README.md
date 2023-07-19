@@ -180,6 +180,7 @@
 
 ## Others
 
-| #   | Problem                                                                   | Solution                               | Difficulty |
-| --- | ------------------------------------------------------------------------- | -------------------------------------- | ---------- |
-| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/trapping-rain-water.py) | Hard       |
+| #   | Problem                                                                         | Solution                                  | Difficulty |
+| --- | ------------------------------------------------------------------------------- | ----------------------------------------- | ---------- |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | [Python](./src/trapping-rain-water.py)    | Hard       |
+| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/first-missing-positive.py) | Hard       |
