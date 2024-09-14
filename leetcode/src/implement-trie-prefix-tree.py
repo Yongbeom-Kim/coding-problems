@@ -1,3 +1,4 @@
+## Recursive solution
 class Trie:
 
     def __init__(self):
